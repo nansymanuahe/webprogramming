@@ -3,9 +3,6 @@ belajar
 
 
 
-pemograman c++
-phyton
-php
 
 matriks menggunakan bahasa pemograman phyton karena lebih efisien
 matriks php menjadi paham
