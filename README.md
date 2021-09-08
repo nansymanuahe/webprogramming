@@ -14,3 +14,8 @@ matriks mudah untuk dipelajari
 kalkulator sederhana
 visual studio
 bahasa pemograman vb net
+
+
+multimedia
+photoshop
+blender
