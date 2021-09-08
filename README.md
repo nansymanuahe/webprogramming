@@ -17,5 +17,5 @@ bahasa pemograman vb net
 
 
 multimedia
-photoshop
+
 blender
