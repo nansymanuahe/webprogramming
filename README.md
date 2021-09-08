@@ -8,7 +8,7 @@ phyton
 php
 
 matriks menggunakan bahasa pemograman phyton karena lebih efisien
-matriks php lebih mudah dimengerti
+matriks php menjadi paham
 matriks mudah untuk dipelajari
 
 kalkulator sederhana
